@@ -9,12 +9,12 @@
 - Eclipse && Code::Blocks [Choices of two SB] 
 
 ## Acknowledge
-Algorithm @weiyuxin
+Algorithm [@weiyuxin](https://github.com/weiyuxin)
 
-Architecture @XYHHH
+Architecture [@XYHHH](https://github.com/XYHHH)
 
-UI @uponuponupon
+UI [@uponuponupon](https://github.com/uponuponupon)
 
-Algorithm @lds56
+Algorithm [@lds56](https://github.com/lds56)
 
-Architecture Master @chenbrilly
+Architecture [@chenbrilly](https://github.com/chenbrilly)
