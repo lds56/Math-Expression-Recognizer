@@ -17,4 +17,4 @@ UI [@uponuponupon](https://github.com/uponuponupon)
 
 Algorithm [@lds56](https://github.com/lds56)
 
-Architecture [@chenbrilly](https://github.com/chenbrilly)
+Architecture Master [@chenbrilly](https://github.com/chenbrilly)
